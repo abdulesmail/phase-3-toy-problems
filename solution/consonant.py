@@ -20,10 +20,11 @@ def solve(s):
     return max_value
 
 
-print(solve("zodiacs"))    
-print(solve("strength"))   
-print(solve("frequency"))  
-print(solve("vibration"))  
+print(solve("software"))    
+print(solve("development"))   
+print(solve("element")) 
+print(solve("character"))  
+
 
 
     

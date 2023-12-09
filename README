@@ -1,0 +1,58 @@
+# Toy Problem
+
+Python program applications that perform specified tasks, December 09 2023 by Abdul Esmail
+
+## Description
+
+These are Python program applications for various tasks. There are three projects at hand here each with various tasks;
+
+## Converting 12-hour time to 24-hour time:
+
+The python code defines a function which will be given an hour (always in the range of 1 to 12, inclusive), a minute (always in the range of 0 to 59, inclusive), and a period (either "am" or "pm") as input. The task of the python code is to return a four-digit string that encodes that time in 24-hour time.
+
+## Two Numbers are Postive:
+
+The python code defines a function which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
+
+## Consonant Value :
+
+Here the python code Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
+
+## How to use Requirments:
+
+A Computer
+Access to the Internet
+
+## Installation Process:
+
+Clone this repository using git clone git@github.com:abdulesmail/toy-problems.git or by downloading a zip file of the code.
+
+The repository, if downloaded as a .zip file will need to be extracted to your preferred location.
+
+Navigate to the project folder on your bash terminal.
+
+Run the application using python3 ./solution/the file you want to run the code in.
+
+## Technologies used:
+
+Python
+
+Support and Contact Details In case of any query, need for collaboration or issues with the codes, feel free to reach me at abdul.esmail@student.moringaschool.com
+
+## License
+
+MIT License refs/remotes/origin/main
+
+Copyright © 2023 Abdul Esmail
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
+
+
