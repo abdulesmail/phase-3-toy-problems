@@ -15,11 +15,13 @@ def solve(s):
             current_value = 0
 
     
+    # Check the last subsrting, if it's a consonant substring
     max_value = max(max_value, current_value)
 
     return max_value
 
 
+# Examples
 print(solve("software"))    
 print(solve("development"))   
 print(solve("element")) 

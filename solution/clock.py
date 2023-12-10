@@ -1,3 +1,4 @@
+# Define a function that checks  whether the period is "am" or "pm" and adjusts the hour accordingly
 def convert_to_24_hour_format(hour, minute, period):
     if period.lower() == "am":
         if hour == 12:
